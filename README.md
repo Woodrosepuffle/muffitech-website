@@ -1,0 +1,3 @@
+# muffitech-website
+This is the GitHub project for my company website.
+It's pretty sketchy as you can see; this was just a simulation of some sort...
